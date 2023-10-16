@@ -1,2 +1,2 @@
 # MLMoireIdentifier
-First attempt at creating an algorithm to detect moire patterns.
+1* creating an algorithm to detect moire patterns.
